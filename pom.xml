@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.compgraf.transgeom</groupId>
+    <artifactId>FX-TransformacionesGeometricas</artifactId>
+    <version>TransformacionesGeometricas-1.0</version>
+    <packaging>jar</packaging>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    <description>Este proyecto esta realizado para el curso de Computación Gráfica del programa
+académico de Ingeniería Multimedia de la Universidad Autónoma de Occidente.
+
+En este se presenta la clase Matriz con las operaciones básicas y forma parte de la 
+unidad de Visualización y modelado 3D.
+
+Es base para los siguiente proyectos:
+- FX-Translacion
+- FX-Rotacion
+- FX-RotacionGeneral
+</description>
+    <name>FX-TransformacionesGeometricas</name>
+</project>
